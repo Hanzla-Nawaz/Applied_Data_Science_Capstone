@@ -9,7 +9,7 @@
 Presentation will develop into a story of all data science journey in this project, and it should be compelling and easy to     
 understand.**
 
-# Steps follows to complete the project
+# Steps follow to complete the project
 
 *  Data collection and data wrangling methodology related slides 
 
